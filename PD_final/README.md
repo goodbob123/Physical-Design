@@ -29,10 +29,10 @@ exameple : python3 ./bin/draw_route.py --grid ./result/grid4.csv --lines ./resul
 ### Project Description
 下方為原始題目敘述,不過考慮實作複雜度與當初提供的testcase內容,最後有對題目做簡化,文件與成果簡報皆在doc directory中.  
 
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page1.gif)  
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page2.gif)  
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page3.gif)  
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page4.gif)  
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page5.gif)  
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page6.gif)  
-![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page7.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page1.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page2.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page3.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page4.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page5.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page6.gif)  
+![image](https://github.com/goodbob123/Physical-Design/blob/main/PD_final/problem_description/page7.gif)  
