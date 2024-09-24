@@ -1,5 +1,6 @@
-# Project Description
+# Chip level global router
 
+### Repository Introduction
 This project contains the following files and folders:
 
 - `bin`: This folder contains the executable file after make compile.
@@ -10,17 +11,28 @@ This project contains the following files and folders:
 - `makefile`: This file is used for compiling the project.
 - `readme.md`: This file introduces the significance of each file in the code.
 
-### How to compile
+##### How to compile
 just type "make" in main directory, then executable file will be compiled into bin directory.  
 
 example : make
 
-### How to run routing program
+##### How to run routing program
 type "./bin/CGR <XX(tracks/um)> <caseX_def directory> <caseX_cfg.json file> <caseX.json file>", then output .rpt file will be generated in main directory.  
 
 exameple : ./bin/CGR 20 testcases/case4/case4_def testcases/case4/case4_cfg.json testcases/case4/case4.json
 
-### How to run plot program
+##### How to run plot program
 type "python3 ./bin/draw_route.py --grid <grid.csv file> --lines <.rpt file> --output <output .png file>", then output .png file will be generated in main directory.  
 
 exameple : python3 ./bin/draw_route.py --grid ./result/grid4.csv --lines ./result/case4_net.rpt --output route4.png
+
+### Project Description
+下方為原始題目敘述,不過考慮實作複雜度與當初提供的testcase內容,最後有對題目做簡化,文件與成果簡報皆在doc directory中.  
+
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page1.jpg)
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page2.jpg)
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page3.jpg)
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page4.jpg)
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page5.jpg)
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page6.jpg)
+![image](https://github.com/goodbob123/Physical-Design/tree/main/PD_final/problem_description/page7.jpg)
