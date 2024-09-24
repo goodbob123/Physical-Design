@@ -1,0 +1,1 @@
+<iframe src="https://docs.google.com/viewer?url=https://github.com/goodbob123/Physical-Design/new/main/hw1/prog1_partitioning.pdf&embedded=true" width="600" height="780" style="border: none;"></iframe>
